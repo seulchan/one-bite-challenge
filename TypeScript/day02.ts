@@ -35,5 +35,5 @@ let numA: number = null; // ❌ 오류 발생!
 이 코드는 엄격한 타입 검사가 활성화 되어 있을 때에는 오류로 판단되는데요
 만약 위 코드를 오류가 아닌 것으로 판단하게 하려면 어떤 옵션을 어떤 값으로 설정해야 할까요?
 
-답 > strict : false
+답 > strictNullChecks : false
 */
