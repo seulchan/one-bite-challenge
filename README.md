@@ -28,8 +28,8 @@
 
 ### TypeScript 미션
 
-- [ ] [Day01 미션](./TypeScript/)
-- [ ] [Day02 미션](./TypeScript/)
+- [x] [Day01 미션](./TypeScript/day01.ts)
+- [x] [Day02 미션](./TypeScript/day02.ts)
 - [ ] Day03 미션
 - [ ] Day04 미션
 - [ ] Day05 미션
