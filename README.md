@@ -16,7 +16,7 @@
 - [x] [Day03 미션](./JavaScript/day03.js)
 - [x] [Day04 미션](./JavaScript/day04.js)
 - [x] [Day05 미션](./JavaScript/day05.js)
-- [ ] Day06 미션
+- [x] [Day06 미션](./JavaScript/day06.js)
 - [ ] Day07 미션
 - [ ] Day08 미션
 - [ ] Day09 미션
