@@ -47,11 +47,11 @@ const API_URL = "https://pokemon-api-ecru-eta.vercel.app";
 
 async function fetchPokemonData() {
   try {
-    let response = await fetch(`${API_URL}`);
-    let pokemonData = await response.json();
-    let greenPokemons = pokemonData.data.filter(
-      (pokemon) => pokemon.color === "green",
-    );
+    let greenPokemons = await fetch(`${API_URL}`)
+      .then((apiResponse) => apiResponse.json())
+      .then((pokemonData) =>
+        pokemonData.data.filter((pokemon) => pokemon.color === "green"),
+      );
     console.log(greenPokemons);
   } catch (error) {
     console.log(error);
