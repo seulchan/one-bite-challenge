@@ -33,7 +33,7 @@
 - [x] [Day03 미션](./TypeScript/day03.ts)
 - [x] [Day04 미션](./TypeScript/day04.ts)
 - [x] [Day05 미션](./TypeScript/day05.ts)
-- [ ] Day06 미션
+- [x] [Day06 미션](./TypeScript/day06.ts)
 - [ ] Day07 미션
 - [ ] Day08 미션
 - [ ] Day09 미션
