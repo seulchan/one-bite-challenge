@@ -1,21 +1,4 @@
-const API_URL = "https://animal-api-two.vercel.app/";
+import App from "./App.js";
 
-const $content = document.querySelector("div.content");
-let template = [];
-
-const getData = async () => {
-  let res = await fetch(API_URL);
-  try {
-    if (res) {
-      let data = await res.json();
-      data.photos.forEach((elm) => {
-        template.push(`<img src="${elm.url}" alt="${elm.title}">`);
-      });
-      $content.innerHTML = template.join(" ");
-    }
-  } catch (err) {
-    console.log(err);
-  }
-};
-
-getData();
+const $app = document.getElementById("app");
+new App($app);
