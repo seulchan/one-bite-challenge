@@ -20,8 +20,8 @@
 - [x] [Day07 미션](./JavaScript/day07/)
 - [x] [Day08 미션](./JavaScript/day08.js)
 - [x] [Day09 미션](./JavaScript/animal-album/)
-- [ ] Day10 미션
-- [ ] Day11 미션
+- [x] [Day10 미션](./JavaScript/animal-album/)
+- [x] [Day11 미션](./JavaScript/animal-album/server/server.js)
 - [ ] Day12 미션
 - [ ] Day13 미션
 - [ ] Day14 미션
