@@ -22,7 +22,7 @@
 - [x] [Day09 미션](./JavaScript/animal-album/)
 - [x] [Day10 미션](./JavaScript/animal-album/)
 - [x] [Day11 미션](./JavaScript/animal-album/server/server.js)
-- [ ] Day12 미션
+- [x] [Day12 미션](./JavaScript/trip-wiki/)
 - [ ] Day13 미션
 - [ ] Day14 미션
 
@@ -39,6 +39,6 @@
 - [x] [Day09 미션](./TypeScript/day09.ts)
 - [x] [Day10 미션](./TypeScript/day10.ts)
 - [x] [Day11 미션](./TypeScript/day11.ts)
-- [ ] Day12 미션
+- [x] [Day12 미션](./TypeScript/day12.ts)
 - [ ] Day13 미션
 - [ ] Day14 미션
